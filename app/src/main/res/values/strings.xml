@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zadanie1</string>
+    <string name="kwadrat">Kwadrat</string>
+    <string name="trojkat">Trójkąt</string>
+</resources>
